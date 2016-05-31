@@ -1,0 +1,28 @@
+{
+  "name": "rest-api",
+  "version": "0.1.0",
+  "description": "NodeJS REST API POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amypellegrini/rest-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "Amy Pellegrini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amypellegrini/rest-api/issues"
+  },
+  "homepage": "https://github.com/amypellegrini/rest-api#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
